@@ -30,6 +30,7 @@
  *                            ------------------------------------
  * 1. activate the auth provider(create app , provide redirect url ,client id , client secret)
  * 2. client id ar client secret ta paowar jonno github > profile > settings > developer settings > new github app
+ * 3.github diye sign in korle user er email ta paowar jonno Authentication > settings > user account linking > create multiple accounts for each identity provider
  * 
  *
  * */
